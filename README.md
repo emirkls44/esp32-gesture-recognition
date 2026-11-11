@@ -3,8 +3,8 @@
 An ESP32 recognizes hand gestures in front of an HC-SR04 ultrasonic sensor. The machine learning model runs on the ESP32 itself, with no internet connection.
 
 ## Demo
+https://github.com/user-attachments/assets/66f5b6e4-879a-483d-b0d4-b1c4ec40b5fc
 
-(video here)
 
 ## What it does
 
